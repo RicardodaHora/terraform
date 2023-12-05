@@ -2,4 +2,4 @@ config { type: "table" }
 
 select * 
   FROM
-    ${ref("teste")}
+    ${ref("teste_novo")}
