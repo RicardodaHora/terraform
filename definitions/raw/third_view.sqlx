@@ -1,5 +1,0 @@
-config { type: "table" }
-
-select * 
-  FROM
-    ${ref("teste_novo")}
