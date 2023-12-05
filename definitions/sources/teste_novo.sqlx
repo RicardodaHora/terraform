@@ -1,0 +1,8 @@
+config {
+  type: "declaration",
+  database: "terraform-406817",
+  schema: "dataform",
+  name: "teste",
+  description: "Tabela Teste"
+}
+
