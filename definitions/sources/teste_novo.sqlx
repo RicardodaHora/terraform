@@ -2,7 +2,7 @@ config {
   type: "declaration",
   database: "terraform-406817",
   schema: "dataform",
-  name: "teste",
+  name: "teste_novo",
   description: "Tabela Teste"
 }
 
