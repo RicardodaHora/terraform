@@ -3,6 +3,6 @@ config {
   database: "terraform-406817",
   schema: "dataform",
   name: "teste_novo",
-  description: "Tabela Teste"
+  description: "Tabela Teste para declaração"
 }
 
